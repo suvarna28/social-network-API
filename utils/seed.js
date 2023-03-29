@@ -24,11 +24,9 @@ connection.once('open', async () => {
   const thoughts = [
     {
       thoughtText: "Be kind to nature !!",
-      username: "suva",
     },
     {
       thoughtText: "Live laugh and have fun !!",
-      username: "john"
     }
   ];
 

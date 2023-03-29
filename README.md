@@ -33,7 +33,7 @@ https://github.com/suvarna28/social-network-API
 
 ## Link to the walkthrough video demonstrating the functionality of the application
 
-
+https://drive.google.com/file/d/1BmUKqr7wbikpJas9nAw8369Mwn-ohqPB/view
 
 ## Credits
 

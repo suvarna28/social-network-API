@@ -29,7 +29,7 @@ N/A
 
 ## Link to the GitHub repo of the application
 
-
+https://github.com/suvarna28/social-network-API 
 
 ## Link to the walkthrough video demonstrating the functionality of the application
 
